@@ -16,3 +16,8 @@ You will need [Visual Studio Code](https://code.visualstudio.com/download) with 
 The diagram under **All Project References in the solution** gets pretty rough for large projects.  Looking at specific projects will likely be must more useful.
 
 If you switch to a different `slnFolder`, it is best to `Restart` the notebook to make sure that the type provider is refreshed.
+
+![Sample Output](Screenshot1.jpg)
+
+![Sample Output](Screenshot2.jpg)
+
